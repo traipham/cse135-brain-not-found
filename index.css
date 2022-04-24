@@ -8,15 +8,15 @@
 
 }
 
-#hw1-list{
+#hw1-list {
   background-color: rgba(222, 213, 213, 0.566);
 }
 
-.TBD{
+#hw2-lang {
   background-color: rgba(222, 213, 213, 0.566);
 }
 
-#page-ref{
+#page-ref {
   display: flex;
   align-items: center;
   justify-content: center;
