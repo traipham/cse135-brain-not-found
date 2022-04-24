@@ -14,6 +14,8 @@
 
 #hw2-lang {
   background-color: rgba(222, 213, 213, 0.566);
+  display: flex;
+  flex-direction: row;
 }
 
 #page-ref {
